@@ -1,0 +1,23 @@
+
+Programmers
+
+// connection to data base
+ insert name -> string
+ tech -> string
+ subs -> boolean , true false //
+
+ Rest API -> GET , POST , PATCH , DELETE 
+
+ express 
+ mongodb
+
+ Get : http://localhost:9000//Programmers
+ Get : http://localhost:9000//Programmers/<id>
+
+ Post : http://localhost:9000//Programmers/<id>
+ patch : http://localhost:9000//Programmers</id>
+
+ delete : http://localhost:9000//Programmers/<id>
+
+ 
+
